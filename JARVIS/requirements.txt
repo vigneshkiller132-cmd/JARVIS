@@ -1,0 +1,4 @@
+groq
+SpeechRecognition
+psutil
+python-dotenv
